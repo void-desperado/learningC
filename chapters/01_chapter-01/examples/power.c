@@ -1,3 +1,4 @@
+//write a function to calculate the value of some base raised to some power
 #include <stdio.h>
 int power(int base,int exponent){
     int result=1;
