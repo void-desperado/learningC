@@ -65,6 +65,8 @@ Table of Contents
     1. Read the chapter in K&R.  
     2. Reproduce all code examples in `01_chapter-1/examples/`.  
     3. Solve relevant practice questions from Let Us C and write codes for practice exercises of K&R in `01_chapter-1/exercises/`.
+  
+    I will also be practicing problems from leetcode and other such sites with an aim of one problem per day.
 
 3) Chapterwise source codes
    
