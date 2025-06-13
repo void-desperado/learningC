@@ -16,8 +16,7 @@ Table of Contents
 
 1) Repository Structure
    
-    learningCportfolio/
-    ├── docs/ # General notes, reference materials, cheat‐sheets
+    learningC/
     ├── .gitignore # Ignore build artifacts and editor backups
     ├── LICENSE # MIT (or chosen) license
     ├── README.md # Project overview, study plan, instructions
